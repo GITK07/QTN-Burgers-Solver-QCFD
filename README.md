@@ -1,4 +1,4 @@
-![image.png](attachment:image.png)
+<img width="600" height="167" alt="image" src="https://github.com/user-attachments/assets/08f06d81-16b7-4080-878f-83624de56f10" />
 
 The Burgers’ equation is a canonical nonlinear PDE that blends convective nonlinearity with viscous diffusion in a single scalar (1‑D) field. By stripping away the pressure term and incompressibility constraint of the full Navier–Stokes (NS) system, it retains the hardest 
 parts of fluid motion, non‑linear steepening and viscous smoothing, while remaining analytically tractable. This makes Burgers an ideal entry‑level CFD benchmark and a low‑resource proving ground for quantum solvers. Because Burgers keeps the hard nonlinear/viscous core of 
